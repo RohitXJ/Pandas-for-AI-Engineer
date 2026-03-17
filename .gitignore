@@ -181,4 +181,4 @@ cython_debug/
 .cursorindexingignore
 # Private Mentor Files
 MENTOR_ADVICE.md
-_linkedin_hub/**
+_linkedin_hub/

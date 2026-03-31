@@ -182,3 +182,6 @@ cython_debug/
 # Private Mentor Files
 MENTOR_ADVICE.md
 _linkedin_hub/
+NOTE.md
+wine_review_embeddings.npy
+/data

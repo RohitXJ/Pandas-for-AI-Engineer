@@ -185,3 +185,5 @@ _linkedin_hub/
 NOTE.md
 wine_review_embeddings.npy
 /data
+05_Performance_Vectorization/02_TV_Show_Review_Pipeline/big_data.parquet
+05_Performance_Vectorization/02_TV_Show_Review_Pipeline/data.ndjson
